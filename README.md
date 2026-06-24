@@ -5,19 +5,19 @@
 
 ### Executive Summary
 
-![Executive Summary](screenshots/Page_1_Executive_Summary.png)
+![Executive Summary](screenshot/Page_1_Executive_Summary.png)
 
 ### Warehouse Performance Analysis
 
-![Warehouse Performance](screenshots/Page_2_Warehouse_Performance.png)
+![Warehouse Performance](screenshot/Page_2_Warehouse_Performance.png)
 
 ### SKU Risk Analysis
 
-![SKU Risk Analysis](screenshots/Page_3_SKU_Risk_Analysis.png)
+![SKU Risk Analysis](screenshot/Page_3_SKU_Risk_Analysis.png)
 
 ### Trend Analysis
 
-![Trend Analysis](screenshots/Page_4_Trend_Analysis.png)
+![Trend Analysis](screenshot/Page_4_Trend_Analysis.png)
 
 ---
 
